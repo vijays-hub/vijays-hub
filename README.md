@@ -5,7 +5,7 @@
 
 - 🌱 Currently Exploring **Python, Django and Flutter with Dart.**
 
-- 💬 Ask me about **React, JavaScript, NodeJS, ExpressJS, NestJS, Algolia, Firebase**
+- 💬 Ask me about **React, JavaScript, NodeJS**
 
 - 📫 Get in touch, let's grab a ☕️ **vijayskumar82@gmail.com**
 
