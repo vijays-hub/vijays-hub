@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay S Kumar</h1>
 <h3 align="center">I knit 🪡 JavaScript 🫳🏽⌨️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijays-hub&label=Profile%20views&color=0e75b6&style=flat" alt="vijays-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijays-hub" alt="vijays-hub" /></a> </p>
-
 - 🔭 Currently knitting [Browser Based File Manager](https://github.com/vijays-hub/file-manager)
 
 - 🌱 Currently Exploring **Python, Django and Flutter with Dart.**
