@@ -23,5 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijays-hub&show_icons=true&locale=en" alt="vijays-hub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijays-hub&" alt="vijays-hub" /></p>
-
