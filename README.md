@@ -21,5 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijays-hub&show_icons=true&locale=en&layout=compact" alt="vijays-hub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijays-hub&show_icons=true&locale=en" alt="vijays-hub" /></p>
-
