@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, NodeJS**
 
-- 📫 Get in touch, let's grab a ☕️ → [📨](mailto:vijayskumar82@gmail.com)
+- 📫 Get in touch → [📨](mailto:vijayskumar82@gmail.com) . Let's grab a ☕️.
 
 - 📄 Know about my experiences → [🗄️](https://drive.google.com/file/d/1i5RxnOMBJYWV8C4hdC4HIPEMDkjJAfkZ/view?usp=sharing)
 
